@@ -7,6 +7,11 @@ import java.awt.geom.*;
 
 import javax.swing.JComponent;
 
+/**
+ * This class is an attempt at a GUI.
+ * It is creating a basic neighborhood.
+ */
+
 
 public class MyHouseComponent extends JComponent{ 
 

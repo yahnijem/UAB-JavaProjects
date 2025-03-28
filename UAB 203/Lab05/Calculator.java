@@ -1,5 +1,9 @@
 package Lab05;
 
+/**
+ * This is a parent class that represents a basic calculator.
+ * It stores the calculator functions like addition, subtraction, multiplication, and division.
+ */
 public class Calculator {
 	
 	private double num1;
@@ -39,4 +43,22 @@ public class Calculator {
     }
 	
 	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
 }

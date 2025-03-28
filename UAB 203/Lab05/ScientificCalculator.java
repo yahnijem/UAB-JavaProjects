@@ -1,5 +1,10 @@
 package Lab05;
 
+/**
+ * This class represents a scientifific calculator that is a subclass of Calculator.
+ * It stores the new calculator functions like squareroot and exponents.
+ */
+
 public class ScientificCalculator extends Calculator{
 	
 	public ScientificCalculator(int num1, int num2) {

@@ -3,6 +3,10 @@ package Lab04;
 import javax.swing.*;
 import java.awt.*;
 
+/**
+ * This is the main class that runs and creates the frame of the GUI.
+ */
+
 public class MyHouseViewer {
     public static void main(String[] args) {
         EventQueue.invokeLater(new Runnable() {
